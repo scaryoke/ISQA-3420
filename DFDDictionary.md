@@ -1,8 +1,21 @@
 # DFD Dictionary
 
-# (Boxed Items)
+# Entities
 
-Corporate Developer
+Corporate Developer- The user that will be contributing opensource code to the system.  
+
+Corporate Manager- User who oversees the project.  This is the user that will be oversees policy risk and vulnerability information. 
+
+# Databases
+
+National Vulnerability Database- Collection of known vulnerabilities.
+
+SPDX DB- Collection of files in SPDX format. 
+
+Policy Database- Collection of company polices. 
+
+
+# (processes)
 
 Manage Code Streams
 
@@ -12,15 +25,8 @@ NIST CPE Information
 
 Manage CPE Information (Daily Job)
 
-National Vulnerability Database
-
-SPDX DB
-
 Manage Project Information 
 
-Corporate Manager
-
-Policy Database
 
 
 # (Items being transferred)
