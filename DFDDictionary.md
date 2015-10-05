@@ -16,9 +16,11 @@ National Vulnerability Database
 
 SPDX DB
 
-Manage PRoject Information 
+Manage Project Information 
 
 Corporate Manager
+
+Policy Database
 
 
 # (Items being transferred)
@@ -50,6 +52,11 @@ File Information Response
 Project Info Request
 
 Project Info Response
+
+Project Model Response
+
+Policy Approval
+
 
 
 External Entites
