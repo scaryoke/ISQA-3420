@@ -1,6 +1,7 @@
 # DFD Dictionary
 
 (Boxed Items)
+
 Corporate Developer
 
 Manage Code Streams
@@ -49,3 +50,12 @@ File Information Response
 Project Info Request
 
 Project Info Response
+
+
+External Entites
+
+Processes
+
+Data Stores
+
+Data Flows
