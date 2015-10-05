@@ -1,6 +1,6 @@
 # DFD Dictionary
 
-(Boxed Items)
+# (Boxed Items)
 
 Corporate Developer
 
@@ -21,7 +21,7 @@ Manage PRoject Information
 Corporate Manager
 
 
-(Items being transferred)
+# (Items being transferred)
 
 File
 
