@@ -24,6 +24,8 @@ Failed End Conditions: Corporate manager receives inaccurate or invalid license 
 Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
 
 
+
+
 Use Case #2
 
 Title: Developer commits project
@@ -47,6 +49,9 @@ Main Sucess Scenario: Developer's code is accurate and inline with corporate pol
 Failed End Conditions: Licenses and/or vulnerabilities are not in line with corporate policy.  Code is not accurate. 
 
 Trigger: Developer completes code and is ready to commit. 
+
+
+
 
 Use Case #3
 
