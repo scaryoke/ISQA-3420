@@ -21,3 +21,28 @@ Main Success Scenario: Corporate manager receives accurate license and vulnerabi
 Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
 
 Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
+
+
+Use Case #2
+
+Title: Developer commits project
+
+Primary Actor: Developer
+
+Goal in Context: The developer is able to add code to projects. 
+
+Stakeholders: Corporate Managers, Developers
+
+Corporate Project Auditor: To determine if the commits adhere to the corporations policies.
+
+Corporate Developer: To add code to projects that is clear, concise, and follows corporate policies.   
+
+Project Owner: Developers
+
+Preconditions: System is current and functional at time of commit.  
+
+Main Sucess Scenario: Developer's code is accurate and inline with corporate policies.  All vulnerabilites and licenses have been addressed per policy procedure.
+
+Failed End Conditions: Licenses and/or vulnerabilities are not in line with corporate policy.  Code is not accurate. 
+
+Trigger: Developer completes code and is ready to commit. 
