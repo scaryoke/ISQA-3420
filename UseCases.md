@@ -47,3 +47,27 @@ Main Sucess Scenario: Developer's code is accurate and inline with corporate pol
 Failed End Conditions: Licenses and/or vulnerabilities are not in line with corporate policy.  Code is not accurate. 
 
 Trigger: Developer completes code and is ready to commit. 
+
+Use Case #3
+
+Title: Developer wants file information
+
+Primary Actor: Developer
+
+Goal in Context: Developer wants to see all licenses and vulnerabilities on a file. 
+
+Stakeholders: Developer, comporate manager
+
+Corporate Project Auditor: To verify that information received on file is correct and inline with policy
+
+Corporate Developer: To ensure that file is inline with policy for vulnerabilities and licensing 
+
+Project Owner: Developer
+
+Preconditions: The system is up to date and currently running
+
+Main Sucess Scenario: The developer request the information and receives the correct information. 
+
+Failed End Conditions: The developer request the information and receives nothing or the information is incorrect.
+
+Trigger: When the developer request the information. 
