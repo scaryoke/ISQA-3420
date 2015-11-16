@@ -4,7 +4,7 @@
 
 Corporate Developer- The user that will be contributing opensource code to the system.  
 
-Corporate Manager- User who oversees the project.  This is the user that will be oversees policy risk and vulnerability information. 
+Corporate Project Audiotor- User who oversees the project.  This is the user that will be oversees policy risk and vulnerability information. 
 
 # Databases
 
@@ -14,20 +14,22 @@ SPDX DB- Collection of files in SPDX format.
 
 Policy Database- Collection of company polices. 
 
+NIST CPE Information
+
 
 # (processes)
 
-Manage Code Streams
+Manage Code Information
 
-FOSSology
-
-NIST CPE Information
+License Scanner
 
 Manage CPE Information (Daily Job)
 
+Manage CVE Information
+
 Manage Project Information 
 
-
+Version Control/Build System
 
 # (Items being transferred)
 
