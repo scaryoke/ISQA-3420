@@ -1,6 +1,6 @@
 # ISQA-3420: Executive Summary
 
-##The Problem: <br />
+##The Problem: 
 Developers are using and bringing in code or other resources from outside of the company.They are using open source repositories and other methods.  If left unchecked, this could open us up to licensing issues and several vulnerablity issues.  This use of open source code is common to the IT world, but there are several consequences our organization needs to be prepared to deal with. It is important that we address these issues before we have a problem like Ameriprise did in 2014.  Ameriprise was using software inconjunction with a third-party and unbeknown to them it violated the terms of the license.  This violation of licensing resulted in an unwanted lawsuit for the company (opensource).
 
 
