@@ -33,7 +33,7 @@
 
 **Generate SHA-1** - This process generates the SHA-1 for a file/package sent in.
 
-# Data Flow
+# Data Flows
 
 **File**- Source File
   
