@@ -35,9 +35,9 @@
 
 # Data Flow
 
-**File**-
+**File**- Source File
   
-**Package**-
+**Package**- Source Package comprised of one or more files
 
 **License Info**-
 
@@ -55,7 +55,7 @@
 
 **FILE SHA1 Request**-
 
-**FILE SHA1 Response**-
+**FILE SHA1 Response**- A yes/no response as to whether or not the hash of a file exists in the database. 
 
 **File license and CPE information**-
 
