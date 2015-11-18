@@ -14,12 +14,12 @@ SPDX DB- Collection of files in SPDX format.
 
 Policy Database- Collection of company polices. 
 
-NIST CPE Information
+NIST CPE Information- New process builds zip.
 
 
-# (processes)
+# Processes
 
-Manage Code Information
+Manage Code Information- 
 
 License Scanner
 
@@ -31,10 +31,10 @@ Manage Project Information
 
 Version Control/Build System
 
-# (Items being transferred)
+# Data Flow
 
 File
-
+  
 Package
 
 License Info
@@ -46,6 +46,10 @@ CPE Information
 CPE Request 
 
 CPE Response
+
+CVE Request
+
+CVE Response
 
 FILE SHA1 Request
 
@@ -65,12 +69,8 @@ Project Model Response
 
 Policy Approval
 
-
+Software Name
 
 External Entites
 
-Processes
-
 Data Stores
-
-Data Flows
