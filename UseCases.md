@@ -49,7 +49,7 @@
 
 # Use Case #3
 
-**Title:** Developer wants file information
+**Title:** Developer wants file licenses and vulnerabilities.
 
 **Primary Actor:** Developer
 
