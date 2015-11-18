@@ -2,9 +2,9 @@
 
 # Entities
 
-Corporate Developer- The user that will be contributing opensource code to the system.  
+**Corporate Developer**- The user that will be contributing opensource code to the system.  
 
-Corporate Project Audiotor- User who oversees the project.  This is the user that will be oversees policy risk and vulnerability information. 
+**Corporate Project Auditor**- User who oversees the project.  This is the user that will be oversees policy risk and vulnerability information. 
 
 # Databases
 
