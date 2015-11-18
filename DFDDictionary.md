@@ -8,71 +8,71 @@
 
 # Databases
 
-National Vulnerability Database- Collection of known vulnerabilities.
+**National Vulnerability Database**- Collection of known vulnerabilities.
 
-SPDX DB- Collection of files in SPDX format. 
+**SPDX DB**- Collection of files in SPDX format. 
 
-Policy Database- Collection of company polices. 
+**Policy Database**- Collection of company polices. 
 
-NIST CPE Information- New process builds zip.
+**NIST CPE Information**- New process builds zip.
 
 
 # Processes
 
-Manage Code Information- This is the process that interracts with the other processes that manage the risk/license information
+**Manage Code Information**- This is the process that interracts with the other processes that manage the risk/license information
 
-License Scanner - This process scans the source code and returns the licence information with software.
+**License Scanner**- This process scans the source code and returns the licence information with software.
 
-Manage CPE Information (Daily Job) - This process checks daily for the updated CPE XML
+**Manage CPE Information (Daily Job)** - This process checks daily for the updated CPE XML
 
-Manage CVE Information - This process will check against the National Vulnerability Database for the vulnerability score.
+**Manage CVE Information** - This process will check against the National Vulnerability Database for the vulnerability score.
 
-Manage Project Information - This process will interract with all other processes that allow the project auditor to view risk information.
+**Manage Project Information** - This process will interract with all other processes that allow the project auditor to view risk information.
 
-Version Control/Build System - This process is our build and version control of our software.
+**Version Control/Build System** - This process is our build and version control of our software.
 
-Generate SHA-1 - This process generates the SHA-1 for a file/package sent in.
+**Generate SHA-1** - This process generates the SHA-1 for a file/package sent in.
 
 # Data Flow
 
-File
+**File**-
   
-Package
+**Package**-
 
-License Info
+**License Info**-
 
-Package Query
+**Package Query**-
 
-CPE Information
+**CPE Information**-
 
-CPE Request 
+**CPE Request**- 
 
-CPE Response
+**CPE Response**-
 
-CVE Request
+**CVE Request**-
 
-CVE Response
+**CVE Response**-
 
-FILE SHA1 Request
+**FILE SHA1 Request**-
 
-FILE SHA1 Response
+**FILE SHA1 Response**-
 
-File license and CPE information
+**File license and CPE information**-
 
-File Information Request
+**File Information Request**-
 
-File Information Response
+**File Information Response**-
 
-Project Info Request
+**Project Info Request**-
 
-Project Info Response
+**Project Info Response**-
 
-Project Model Response
+**Project Model Response**-
 
-Policy Approval
+**Policy Approval**-
 
-Software Name
+**Software Name**-
 
-External Entites
+**External Entites**-
 
-Data Stores
+**-Data Stores**-
