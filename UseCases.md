@@ -1,4 +1,4 @@
-Use Case #1
+# Use Case #1
 
 Title: Determine License and Vulnerability Information 
 
@@ -26,7 +26,7 @@ Trigger: Corporate manager uploads or identifies project information to which li
 
 
 
-Use Case #2
+# Use Case #2
 
 Title: Developer commits project
 
@@ -53,7 +53,7 @@ Trigger: Developer completes code and is ready to commit.
 
 
 
-Use Case #3
+# Use Case #3
 
 Title: Developer wants file information
 
