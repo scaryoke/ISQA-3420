@@ -19,17 +19,19 @@ NIST CPE Information- New process builds zip.
 
 # Processes
 
-Manage Code Information- 
+Manage Code Information- This is the process that interracts with the other processes that manage the risk/license information
 
-License Scanner
+License Scanner - This process scans the source code and returns the licence information with software.
 
-Manage CPE Information (Daily Job)
+Manage CPE Information (Daily Job) - This process checks daily for the updated CPE XML
 
-Manage CVE Information
+Manage CVE Information - This process will check against the National Vulnerability Database for the vulnerability score.
 
-Manage Project Information 
+Manage Project Information - This process will interract with all other processes that allow the project auditor to view risk information.
 
-Version Control/Build System
+Version Control/Build System - This process is our build and version control of our software.
+
+Generate SHA-1 - This process generates the SHA-1 for a file/package sent in.
 
 # Data Flow
 
