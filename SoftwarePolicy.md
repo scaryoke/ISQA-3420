@@ -1,4 +1,6 @@
-#Licenses
+#Context: Production
+
+##Licenses
  GPLv2  Red 
  
  GPLv3  Black
@@ -7,7 +9,7 @@
  
  MIT  Green 
 
-#Vulnerabilities 
+##Vulnerabilities 
  Scores
  
   0<X<6  Yellow
