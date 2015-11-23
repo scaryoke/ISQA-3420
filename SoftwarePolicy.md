@@ -1,13 +1,13 @@
 #Licenses
   Copyleft 
-	    GPLv2 – Red 
-	    GPLv3 – Black
+	GPLv2 – Red 
+	GPLv3 – Black
 
-  Permissive 
-	    Apache – Yellow
+  Permissive
+	Apache – Yellow
     	MIT – Green 
 
 #Vulnerabilities 
     Scores
     	0<X<6 – Yellow
-	    X>6 – Red 
+	X>6 – Red 
