@@ -12,3 +12,8 @@
       Licenses: 
       Vulnerabilities: 
       ???
+#File
+      Name: 
+      SHA1: 
+      Licenses: 
+      Vulnerabilities: 
