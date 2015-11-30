@@ -14,8 +14,9 @@
 
 **Policy Database**- Collection of company polices. 
 
-**NIST CPE Information**- New process builds zip.
+**NIST CPE Information**- XML file containing names of CPE names
 
+**Online Repository** - Repository where license obligations are fulfilled.
 
 # Processes
 
@@ -43,46 +44,40 @@
   
 **Package**- Source Package comprised of one or more files
 
-**License Info**-
+**License Info**- Each individual license that is associated with software
 
-**Package Query**-
+**Package Query**- A particular package that is being queried on
 
-**CPE Information**-
+**CPE Information**- CPE name that will allow us to get the vulnerablity score
 
-**CPE Request**- 
+**CPE Request**- This contains the name of the software we are looking up
 
-**CPE Response**-
+**CPE Response**- This will either return the CPE name or an empty string if no name is found
 
-**CVE Request**-
+**CVE Response**- This will return the vulnerability score if one exists
 
-**CVE Response**-
-
-**FILE SHA1 Request**-
+**FILE SHA1 Request**- This will contain a generated SHA1.
 
 **FILE SHA1 Response**- A yes/no response as to whether or not the hash of a file exists in the database. 
 
-**File license and CPE information**-
+**License and Vulnerability information**- This will contain the licenses and vulnerability information associationd with a project.
 
-**File Information Request**-
+**Policy Information Request**- Contains all of the license and vulnerability information associated with a project.
 
-**File Information Response**-
+**Policy Information Response**- Returns all of of the policy information
 
-**Project Info Request**-
+**Project Info Request**- The name of the project
 
-**Project Info Response**-
+**Project Info Response**- This returns all of the project information
 
-**Project Model Response**-
+**Project Model Response**- This returns all of the code files used within a project
 
-**Policy Approval**-
+**Policy Approval**- A yes/no response to indicate if a project can continue
 
-**Software Name**-
+**Software Name**- The name of the software 
 
-**Project Information**-
+**Project Information**- Contains all of the licenses that a project is using.
 
-**Project Environment**-
+**Project Environment**- Indicator of where the production environment is
 
-**Community Notification**-
-
-**External Entites**-
-
-**Data Stores**-
+**Community Notification**- Notification sent to the developer when a license needs to be fulfilled.
