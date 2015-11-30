@@ -33,6 +33,10 @@
 
 **Generate SHA-1** - This process generates the SHA-1 for a file/package sent in.
 
+**Update Project Information** - This process allows the project auditor to update the environment where the code is deployed.
+
+**Fulfill License**- This process fulfills the license obligation set by the code used in production.
+
 # Data Flows
 
 **File**- Source File
@@ -74,6 +78,8 @@
 **Software Name**-
 
 **Project Information**-
+
+**Project Environment**-
 
 **External Entites**-
 
