@@ -16,6 +16,16 @@
 - Then send it through the National Vulnerablity Database
 
 # Use Cases
+## Case 1
+- Determine License and Vulnerability Information
+### Goal
+- The corporate manager is able to determine license and vulnerability information from provided project information
+### Main Success
+- Corporate manager receives accurate license and vulnerability information for the requested project packages
+### Failed End Scenario
+- Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+### Trigger
+- Corporate manager uploads or identifies project information to which license and vulnerability information is provided
 
 # Software Manifest
 
