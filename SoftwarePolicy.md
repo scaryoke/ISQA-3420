@@ -9,9 +9,9 @@
  
  MIT  Green 
  
- Beer - Green
+ Beer  Green
  
- Stratocaster - Red
+ Stratocaster  Red
 
 ##Vulnerabilities 
  Scores
