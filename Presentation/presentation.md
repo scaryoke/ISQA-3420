@@ -11,9 +11,9 @@
 - Developers are using and bringing in code or other resources from outside of the company.
 
 -Solution
--Allow developers to use open-source software
--Send all codes through FOSSology
--Then send it through the National Vulnerablity Database
+- Allow developers to use open-source software
+- Send all codes through FOSSology
+- Then send it through the National Vulnerablity Database
 
 # Use Cases
 
