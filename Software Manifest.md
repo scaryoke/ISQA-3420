@@ -9,11 +9,11 @@
       Name: Harbor
       SHA1: 
       CPE: 
-      Licenses: 
+      Licenses: Beer
       Vulnerabilities: 
       ???
 #File
       Name: HarborProject
       SHA1: 
-      Licenses: 
+      Licenses: Beer 
       Vulnerabilities: 
