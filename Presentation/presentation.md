@@ -7,10 +7,10 @@
 # ERD
 
 # Executive Summary
-##-Problem
+## Problem
 - Developers are using and bringing in code or other resources from outside of the company.
 
-##-Solution
+## Solution
 - Allow developers to use open-source software
 - Send all codes through FOSSology
 - Then send it through the National Vulnerablity Database
