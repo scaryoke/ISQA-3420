@@ -2,19 +2,25 @@
 
 #Document
       DocumentLicense: CC-BY-SA 4.0
-      Author: John Doe
-      DateCreated: 12-7-1941
+      Author: 
+      DateCreated: 
       Project Name:
-
+      Last Updated:
+      Comments:
+      
 #Package 
       Name: 
       SHA1: 
       CPE: 
       Licenses: 
       Vulnerabilities: 
-
+      Last Updated:
+      Comments:
+      
 #File
       Name: HarborProject
       SHA1: 
       Licenses:  
       Vulnerabilities: 
+      Last Updated:
+      Comments:
