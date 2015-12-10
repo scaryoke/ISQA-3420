@@ -32,6 +32,7 @@
 - Corporate manager uploads or identifies project information to which license and vulnerability information is provided
 
 # Software Manifest
+
 ## Document
 -  DocumentLicense: CC-BY-SA 4.0
 -  Author: 
@@ -39,6 +40,7 @@
 -  Project Name:
 -  Last Updated:
 -  Comments:
+
 ## Package
 -  Name: 
 -  SHA1: 
@@ -47,6 +49,7 @@
 -  Vulnerabilities: 
 -  Last Updated:
 -  Comments:
+
 ## File
 -  Name: HarborProject
 -  SHA1: 
