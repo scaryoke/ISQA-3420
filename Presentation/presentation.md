@@ -1,10 +1,10 @@
 # DFD 
 
-![image](https://cloud.githubusercontent.com/assets/14796049/11480732/c43bf122-975e-11e5-9a72-265fd05504f4.png)
-
-# DFD Dictionary
+![image](https://cloud.githubusercontent.com/assets/14796049/11703226/d63c8260-9ea2-11e5-97f3-cc91ffce3ac5.png)
 
 # ERD
+
+![image](https://cloud.githubusercontent.com/assets/14796049/11703317/d968f300-9ea3-11e5-9ed3-08bdfba28a48.png)
 
 # Executive Summary
 ## Problem
